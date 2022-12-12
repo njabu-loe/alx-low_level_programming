@@ -4,6 +4,7 @@
  * MAin - Entry point
  * Return: Always 0 (Success/correct)
  */
+
 char main(void)
 {
 char i;
